@@ -1,5 +1,3 @@
-```
-```markdown
 # 🚀 Jetpack Compose Lab Assignment 1
 
 **Name:** Abiy Hailu  
@@ -31,12 +29,6 @@ Users can tap to expand a card and view a detailed description and prerequisites
 - **Material 3 theming:** Consistent styling using Material 3, with support for both light and dark mode.
 - **Theming:** Uses `CourseCatalogTheme` and `MaterialTheme.colorScheme` for adaptive colors.
 
----
-
-## 🖼️ Screenshots
-
-<!-- You can add screenshots here by uploading images to your repo and using: -->
-<!-- ![Screenshot](path/to/screenshot.png) -->
 
 ---
 
@@ -68,6 +60,3 @@ It demonstrates my understanding of:
 This project is for educational purposes.
 
 ```
-
----
-
